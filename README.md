@@ -4,7 +4,7 @@
 
 👨‍🎓 **Técnico en Sistemas Microinformáticos y Redes**  
 🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**  
-💻 **Apasionado por el desarrollo de software**, especialmente en **Angular**, **Node JS**, **Backend** y **Bases de Datos**.
+💻 **Apasionado por el desarrollo de software**, especialmente en **Java**, **Spring**, **Backend** y **Bases de Datos**.
 
 🚀 Creo que el aprendizaje nunca termina. Estoy constantemente explorando nuevas tecnologías y herramientas que me ayuden a crecer como desarrollador.
 Mi objetivo es construir aplicaciones que resuelvan problemas reales y ayuden a mejorar la vida de las personas.
